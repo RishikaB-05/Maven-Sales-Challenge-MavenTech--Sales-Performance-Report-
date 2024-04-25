@@ -24,8 +24,17 @@ The data contains B2B sales opportunities from a CRM database including informat
 The Above tables consist of 18 fields and 8800 records in CSV format.
 
 The Deal Pipeline stages consist of Prospecting > Engaging > Won / Lost
+## Approach to the Challenge
+Step 1: Imported the data into Power BI Desktop and understand the data structure and what information the data contains.
 
-## Processing and Modeling Data
+Step 2: based on the pieces of information available in the CRM data, the KPIs the sales managers most likely need to focus on were defined.
+
+Step 3: decided how to visualize the KPIs (e.g., KPIs cards, by team leaders, by sales agent, etc.), and draft a dashboard's user flow that maximizes user experience.
+
+Step 4: data clean-up and transformation using Power Query, to make the data suitable create all the measures for the KPIs and the visualizations.
+
+Step 5: creation of the data model and all the measures.
+## Modeling Data
 
 Minimal data cleaning was done, and currency columns were formatted. Columns were added to the 'sales_pipeline' table to track deal engagement to sale close duration, with separate columns for engage/close dates by month. Relationships between tables were established after minor formatting
 
