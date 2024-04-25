@@ -1,4 +1,4 @@
-# Maven-Sales-Challenge-MavenTech--Sales-Performance-Report 📈
+# Maven Sales Challenge | MavenTech-Sales Performance Report 📈
 
 <img width="960" alt="MavenTech-Sales_Performance_Report" src="https://github.com/RishikaB-05/Maven-Sales-Challenge-MavenTech--Sales-Performance-Report-/assets/157221360/da07c537-cb1d-4854-b8f2-76ed397bbdf0">
 
